@@ -69,19 +69,39 @@ After opening a new store in America, AtliQ Hardware encountered unforeseen loss
   - Establishing relationships between tables.  
   - Creating calculated columns and measures.  
 
-![Schema Diagram](#) <!-- Add a link or file path to the schema diagram image -->
+![Schema Diagram](Schema.png)
 
 ---
 
 ## Dashboard Overview
 The Power BI dashboard consists of six pages, each targeting a specific business domain:
 
-1. **Home Page**: Navigation hub with bookmarks.  
+1. **Home Page**: Navigation hub with bookmarks.    
+
+    ![Home Page](https://github.com/sumanju333/Business-Insights-360/blob/main/Home%20Page.PNG)
+
 2. **Finance**: Profitability metrics, top-performing products, and customers.  
-3. **Sales**: Customer contributions, gross margin, and sales trends.  
+   
+   ![Finance View](https://github.com/sumanju333/Business-Insights-360/blob/main/Finance%20View.PNG)
+   
+3. **Sales**: Customer contributions, gross margin, and sales trends. 
+
+   ![Sales View](https://github.com/sumanju333/Business-Insights-360/blob/main/Sales%20View.PNG)
+
+ 
 4. **Marketing**: Segment-wise performance and profitability.  
+
+   ![Marketing View](https://github.com/sumanju333/Business-Insights-360/blob/main/Marketing%20View.PNG)
+
+
 5. **Supply Chain**: Forecast accuracy and error analysis.  
+
+   ![Supply Chain View](https://github.com/sumanju333/Business-Insights-360/blob/main/Supply%20Chain%20View.PNG)
+
+
 6. **Executive Summary**: Key KPIs, revenue breakdowns, and geographical performance.  
+
+   ![Executive View](https://github.com/sumanju333/Business-Insights-360/blob/main/Executive%20View.PNG)
 
 ---
 
